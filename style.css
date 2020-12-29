@@ -162,7 +162,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/backg.JPG") no-repeat center;
+    background: url("images/background.JPG") no-repeat center;
     height: 100vh;
     color: rgb(249, 252, 250);
     min-height: 500px;
